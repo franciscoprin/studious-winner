@@ -1,1 +1,3 @@
-# Main instructions for this template.
+# FastAPI app: REPO_NAME
+
+# REPO_NAME is so cool.
